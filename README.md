@@ -48,8 +48,15 @@ The MySQL sample database schema consists of the following tables:
 - productlines
 - products
 
-## Tables
-![Customers](https://drive.google.com/file/d/1vktSzaB5BOg8z8C0rVN46Ady5lRZF-8c/view?usp=drive_link)
+## Test Cases done in this project
+- Checked table presence in the database schema
+- Checked table name conventions
+- Checked the number of columns in a table
+- Checked the column name in a table
+- Checked the data type of columns in the table
+- Checked the size of the columns in a table
+- Checked null fields in a table
+- Checked column keys in a table
 
 ## Acknowledgments
 Feel free to contribute, open issues, or provide feedback to make this project even better!
