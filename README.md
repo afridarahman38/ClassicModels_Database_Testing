@@ -4,7 +4,7 @@
 This project focuses on testing the database components of a software system to ensure data integrity, accuracy, and reliability. Database testing is crucial for identifying issues related to data storage, retrieval, and manipulation, helping maintain the overall quality of the software.
 
 ## Prerequisites
-
+MySQL: Ensure that you have MySQL installed on your machine. You can download it from [MySQL's official website](https://www.mysql.com/downloads/)
 
 ## Key Objectives
 - Data Accuracy: Verify that the data stored in the database accurately reflects the input and meets specified requirements.
@@ -36,6 +36,20 @@ This project focuses on testing the database components of a software system to 
 - Test Execution: Execute the database test scripts, queries, and transactions using a testing framework or tools.
 
 - Monitoring and Analysis: Monitor database performance, analyze query execution plans, and identify any anomalies or performance bottlenecks.
+
+## Tables Used in this project
+The MySQL sample database schema consists of the following tables:
+- customers
+- employees
+- offices
+- orderdetails
+- orders
+- payments
+- productlines
+- products
+
+## Tables
+![Customers](https://drive.google.com/file/d/1vktSzaB5BOg8z8C0rVN46Ady5lRZF-8c/view?usp=drive_link)
 
 ## Acknowledgments
 Feel free to contribute, open issues, or provide feedback to make this project even better!
